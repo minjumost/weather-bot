@@ -1,0 +1,19 @@
+{
+  "name": "weather-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "iconv-lite": "^0.6.3",
+    "openai": "^4.0.0"
+  },
+  "type": "module"
+}
